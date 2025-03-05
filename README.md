@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @GiacoLnd
 - 👀 I’m interested in Website creation and redesign
-- 🌱 I’m currently learning Object-Oriented Programming PHP
-- 💞️ I’m looking to collaborate on an internship between jan. 6 and feb. 14 2025
-- 📫 How to reach me : www.linkedin.com/in/giacomo-landolfo-406268273
-- 😄 Pronouns: //
+- 🌱 Actually working on an Online bakery store 
+- 💼 Open to new opportunities and collaborations
+- 🚀 Soon diving into: React & TypeScript
+- 📫 How to reach me : www.linkedin.com/in/giacomo-landolfo-406268273 // giacomo.landolfo@outlook.com
 - ⚡ Fun fact: RPG nerd and former french cook !
 
 <!---
